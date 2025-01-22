@@ -1,5 +1,7 @@
 # Solana MCP Server
 
+[![smithery badge](https://smithery.ai/badge/@aldrin-labs/solana-mcp-server)](https://smithery.ai/server/@aldrin-labs/solana-mcp-server)
+
 A Model Context Protocol (MCP) server that provides comprehensive access to Solana blockchain data through Cline. This server implements a wide range of Solana RPC methods, making it easy to query blockchain information directly through natural language conversations.
 
 ## Features
